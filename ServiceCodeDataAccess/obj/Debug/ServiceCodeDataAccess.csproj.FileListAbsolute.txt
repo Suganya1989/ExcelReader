@@ -1,0 +1,13 @@
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\ServiceCodeDataAccess.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\ServiceCodeDataAccess.pdb
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\BusinessFacade.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\BusinessFacade.pdb
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\obj\Debug\ServiceCodeDataAccess.csprojResolveAssemblyReference.cache
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\obj\Debug\ServiceCodeDataAccess.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\obj\Debug\ServiceCodeDataAccess.pdb
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Simple.Data.Ado.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Simple.Data.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Simple.Data.Oracle.ManagedDataAccess.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Oracle.DataAccess.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\ServiceCodeDataAccess\bin\Debug\Simple.Data.pdb

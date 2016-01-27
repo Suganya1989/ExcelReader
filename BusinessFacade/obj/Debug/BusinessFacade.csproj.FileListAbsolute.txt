@@ -1,0 +1,4 @@
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\BusinessFacade\bin\Debug\BusinessFacade.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\BusinessFacade\bin\Debug\BusinessFacade.pdb
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\BusinessFacade\obj\Debug\BusinessFacade.dll
+c:\users\satish\documents\visual studio 2013\Projects\EDIAutomation\BusinessFacade\obj\Debug\BusinessFacade.pdb
